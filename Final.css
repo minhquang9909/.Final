@@ -281,7 +281,7 @@ body {
         align-items: center;
         }
         .his-header {
-            font-weight: bold;
+            font-weight: 700;
             background: #f5f5f5;
             border-bottom: 2px solid #bbb;
             font-size: 17px;
@@ -295,18 +295,7 @@ body {
             padding: 6px 8px;
             text-align: center;
             border-right: 1px solid #ddd;
-        }
-        .his-header p.step, .his-step p.step {
             width: 20%;
-        }
-        .his-header p.direction, .his-step p.direction {
-            width: 20%;
-        }
-        .his-header p.time, .his-step p.time {
-            width: 20%;
-        }
-        .his-header p:last-child, .his-step p:last-child {
-            border-right: none;
         }
         .his-body {
             width: 100%;
